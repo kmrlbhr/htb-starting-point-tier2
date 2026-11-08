@@ -1,0 +1,73 @@
+# HackTheBox — Starting Point (Tier 2)
+
+![Platform](https://img.shields.io/badge/Platform-HackTheBox-9FEF00?logo=hackthebox&logoColor=black)
+![Type](https://img.shields.io/badge/Type-Starting%20Point-blueviolet)
+![Tier](https://img.shields.io/badge/Tier-2-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Boxes](https://img.shields.io/badge/Boxes-0%2F7-orange)
+
+> My notes, commands and walkthroughs for the HackTheBox **Starting Point — Tier 2** machines.
+> Flags are hidden behind spoiler sections. Try each box yourself first.
+
+---
+
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Progress Tracker](#-progress-tracker)
+- [Writeups](#-writeups)
+- [Cheatsheets](#-cheatsheets)
+- [Key Takeaways](#-key-takeaways)
+
+---
+
+## 🧭 Overview
+
+| Item | Detail |
+|------|--------|
+| Track | Starting Point |
+| Tier | 2 |
+| Platform | HackTheBox |
+| Started | 2026-11-08 |
+| Completed | _TBD_ |
+
+---
+
+## ✅ Progress Tracker
+
+**Boxes rooted: 0 / 7**
+
+| # | Machine | OS | Writeup | Status |
+|---|---------|-----|---------|--------|
+| 1 | Archetype | Windows | — | ⬜ Not started |
+| 2 | Oopsie | Linux | — | ⬜ Not started |
+| 3 | Vaccine | Linux | — | ⬜ Not started |
+| 4 | Unified | Linux | — | ⬜ Not started |
+| 5 | Included | Linux | — | ⬜ Not started |
+| 6 | Markup | Windows | — | ⬜ Not started |
+| 7 | Base | Linux | — | ⬜ Not started |
+
+Legend: ⬜ Not started · 🟨 In progress · ✅ Done
+
+---
+
+## 🧪 Writeups
+
+| Machine | OS | Foothold | Writeup |
+|---------|-----|----------|---------|
+| _add as you go_ | | | |
+
+---
+
+## 📋 Cheatsheets
+
+- [cheatsheets/commands.md](cheatsheets/commands.md): commands collected throughout Tier 2
+
+---
+
+## 💡 Key Takeaways
+
+- 
+
+---
+
+<sub>Notes for educational purposes only. Only test systems you're authorized to attack.</sub>
